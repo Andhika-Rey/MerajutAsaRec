@@ -26,7 +26,7 @@ export default function LandingPage() {
           <div className="text-center max-w-4xl mx-auto">
             <div className="flex justify-center mb-6">
               <img 
-                src="/Green and White Bold Brand Guidelines Presentation (4).svg" 
+                src="src/assets/Green and White Bold Brand Guidelines Presentation (3).svg" 
                 alt="Merajut Asa Logo" 
                 className="w-16 h-16"
               />
